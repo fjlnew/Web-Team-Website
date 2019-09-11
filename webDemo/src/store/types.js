@@ -1,0 +1,15 @@
+export const PERSONAL_INFO = "PERSONAL_INFO";
+export const SELF_MESSAGE = "SELF_MESSAGE";
+export const REGIST = "REGIST";
+export const LOGIN = "LOGIN";
+export const LOGOUT = "LOGOUT";
+export const COMPLETE_USER = "COMPLETE_USER";
+export const GET_DETAIL = "GET_DETAIL";
+export const SHOW_LOADING_TRUE = "SHOW_LOADING";
+export const SHOW_LOADING_FALSE = "SHOW_LOADING_FALSE";
+export const CHANGE_TAG_TYPE = "CHANGE_TAG_TYPE";
+export const CHANGE_PAGE = "CHANGE_PAGE";
+export const CHANGE_CRITICAL = "CHANGE_CRITICAL";
+export const GET_NEWS_DETAIL = "GET_NEWS_DETAIL";
+export const CHANGE_MODIFY_TRUE = "CHANGE_MODIFY_TRUE";
+export const CHANGE_MODIFY_FALSE = "CHANGE_MODIFY_FALSE";

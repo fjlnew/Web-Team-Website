@@ -1,0 +1,22 @@
+{
+  "name": "koa2",
+  "version": "1.0.0",
+  "description": "Web application team official website.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "lx",
+  "license": "ISC",
+  "dependencies": {
+    "jsonwebtoken": "^8.2.0",
+    "koa": "^2.5.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-cors": "^0.0.16",
+    "koa-jwt": "^3.3.1",
+    "koa-multer": "^1.0.2",
+    "koa-router": "^7.4.0",
+    "koa-static": "^4.0.2",
+    "mysql": "^2.15.0"
+  }
+}
